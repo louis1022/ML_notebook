@@ -11,7 +11,7 @@ pandas = "*"
 seaborn = "*"
 sklearn = "*"
 jupyterlab = "*"
-
+causalml = "*"
 
 [requires]
 python_version = "3.7"
